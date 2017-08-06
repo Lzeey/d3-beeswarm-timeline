@@ -1,0 +1,12 @@
+.beeswarm > circle {
+    stroke-width: 1.5px;
+}
+
+svg > line.beeswarm {
+    stroke: lightGrey;
+}
+
+text.timeReadout {
+    font-size: 0.7em;
+    font-family: sans-serif;
+}
